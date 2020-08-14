@@ -43,3 +43,5 @@ Get it up an running in Repl.it.
 
 1. Using 3 `System.out.println()` statements, print your name, least favorite color, and your favorite (appropriate) dad joke.  
 2. Change the for-loop so that Omaha Central is printed 10 times.  
+
+#### Commit and Push the file to GitHub. 
